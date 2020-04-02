@@ -1,0 +1,7 @@
+tree("Root")
+	sequence
+		WaitToStart
+		AddPlaneFaceToPlayer
+		Wait(5.0)
+		AddPlaneBackToPlayer
+		Wait(5.0)
